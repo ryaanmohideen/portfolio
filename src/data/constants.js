@@ -228,7 +228,7 @@ export const projects = [
     description:
       "Developed a Python-based text extraction application that leverages EasyOCR for precise optical character recognition and OpenCV for effective image processing, enabling users to extract text from images seamlessly.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQHtZ7vhakH5pg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1710471616311?e=1724979600&v=beta&t=jKI9LLjQpHY54zqYvp3KzOhl_wKWNtCU2CmN-U2Qg8k",
+      "https://media.licdn.com/dms/image/v2/D562DAQHtZ7vhakH5pg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1710471616311?e=1726718400&v=beta&t=tCr2-77394RdhSU2umUDOMam45AtQiKMSirmp-sfjm4",
     tags: [
       "Python",
       "OpenCV",
@@ -237,7 +237,7 @@ export const projects = [
     ],
     category: "software",
     github: "https://github.com/ryaanmohideen/text-detect",
-    webapp: "https://trackify.duckdns.org",
+    webapp: "",
   },
   {
     id: 0,
@@ -246,11 +246,11 @@ export const projects = [
     description:
       "Developed a dynamic movie catalog website and leveraged TMDB’s API to fetch trending movies and enable user-friendly search functionalities.-Developed a dynamic movie catalog website and leveraged TMDB’s API to fetch trending movies and enable user-friendly search functionalities.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFpaecj34vVCA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785144504?e=1724979600&v=beta&t=9gnhBpIMOMyOltnF2vjkwAgSHRZ5oOzs_JKeRt-SkAA",
+      "https://media.licdn.com/dms/image/v2/D562DAQFpaecj34vVCA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785144504?e=1726718400&v=beta&t=ctyP0Y3zm9adDzv-U3mwJnrO881-Ql5s-Xx9h_2t2GM",
     tags: ["HTML", "CSS", "Vue Js", "Github", "VSCode"],
     category: "software",
     github: "https://github.com/ryaanmohideen/TMDB-API-Movie-Catalogue",
-    webapp: "https://podstream.netlify.app/",
+    webapp: "",
   },
   {
     id: 1,
@@ -259,7 +259,7 @@ export const projects = [
     description:
       "Developed a triboelectric nanogenerator at the University of Waterloo Nano Ideas Clinic 2023, effectively harnessing triboelectric properties to convert wind energy into 10 volts of electricity, highlighting significant potential for sustainable energy innovation.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQGaoRlGXeDFmQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707784950966?e=1724983200&v=beta&t=633qHIvNUy3KYhtWbmn9dSp2_VWP1qIVqdxX9OHstTA",
+      "https://media.licdn.com/dms/image/v2/D562DAQGaoRlGXeDFmQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707784950966?e=1726718400&v=beta&t=5Ab_XG6gzFInriwHHZHqXy0GWLIjeyq14X9_nQprBi8",
     tags: [
       "Circuit Analysis",
       "Material Testing",
@@ -274,11 +274,11 @@ export const projects = [
     description:
       "Collaboratively crafted an immersive 2-player fighting game featuring dynamic special kill animations, captivating sound effects, and precise scorekeeping.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFashYE5RzLxQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785626122?e=1724979600&v=beta&t=lH8n261nd3Q_eMopbmy6WQ77Mij4oyti0k8wYQrlFXM",
+      "https://media.licdn.com/dms/image/v2/D562DAQFashYE5RzLxQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785626122?e=1726718400&v=beta&t=57Gn6pMLm8o91-vHGKJMzSKSeFaSTKAoRrT5B7Tn2zw",
     tags: ["Python", "Pygame", "VSCode", "Github"],
     category: "software",
     github: "https://github.com/ryaanmohideen/python-street-fighter",
-    webapp: "https://brain-tumor.netlify.app/",
+    webapp: "",
   },
 ];
 
