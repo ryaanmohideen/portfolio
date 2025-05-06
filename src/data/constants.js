@@ -171,10 +171,24 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png",
+    role: "Battery Research Assistant",
+    company: "University of Toronto",
+    date: "Jan 2025 - Apr 2025",
+    desc: "Optimized electrochemical impedance spectroscopy circuits, analyzed cycling data in Python, and implemented machine learning models for enhanced electrolyte performance evaluation.",
+    skills: [
+      "Battery Testing",
+      "Python",
+      "Machine Learning",
+      "Circuit Analysis",
+    ],
+  },
+  {
+    id: 0,
     img: "https://s201.q4cdn.com/326551073/files/images/2022/05/1970-logo.png",
     role: "Data and Software Engineering Co-op",
     company: "Canadian Tire/Ness Digital Engineering",
-    date: "May 2024 - Aug 2024",
+    date: "May 2024 - Apr 2025",
     desc: "Enhanced data workflows, led automation projects, and ensured seamless system integration for Canadian Tire.",
     skills: [
       "SQL",
@@ -228,7 +242,7 @@ export const projects = [
     description:
       "Developed a Python-based text extraction application that leverages EasyOCR for precise optical character recognition and OpenCV for effective image processing, enabling users to extract text from images seamlessly.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQHtZ7vhakH5pg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1710471616311?e=1726718400&v=beta&t=tCr2-77394RdhSU2umUDOMam45AtQiKMSirmp-sfjm4",
+      "https://media.licdn.com/dms/image/v2/D562DAQHtZ7vhakH5pg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1710471616311?e=1747105200&v=beta&t=cTe_YkkL2LXU0kI21DfIw55XKvzKrTXnoQOlD7o4XqQ",
     tags: [
       "Python",
       "OpenCV",
@@ -246,7 +260,7 @@ export const projects = [
     description:
       "Developed a dynamic movie catalog website and leveraged TMDB’s API to fetch trending movies and enable user-friendly search functionalities.-Developed a dynamic movie catalog website and leveraged TMDB’s API to fetch trending movies and enable user-friendly search functionalities.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFpaecj34vVCA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785144504?e=1726718400&v=beta&t=ctyP0Y3zm9adDzv-U3mwJnrO881-Ql5s-Xx9h_2t2GM",
+      "https://media.licdn.com/dms/image/v2/D562DAQFpaecj34vVCA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785144504?e=1747105200&v=beta&t=v5mNDjmkNlJNi6p1dhYz1FMPVAWZJT-qHfKAmx8Jbl4",
     tags: ["HTML", "CSS", "Vue Js", "Github", "VSCode"],
     category: "software",
     github: "https://github.com/ryaanmohideen/TMDB-API-Movie-Catalogue",
@@ -259,7 +273,7 @@ export const projects = [
     description:
       "Developed a triboelectric nanogenerator at the University of Waterloo Nano Ideas Clinic 2023, effectively harnessing triboelectric properties to convert wind energy into 10 volts of electricity, highlighting significant potential for sustainable energy innovation.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQGaoRlGXeDFmQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707784950966?e=1726718400&v=beta&t=5Ab_XG6gzFInriwHHZHqXy0GWLIjeyq14X9_nQprBi8",
+      "https://media.licdn.com/dms/image/v2/D562DAQGaoRlGXeDFmQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707784950966?e=1747105200&v=beta&t=hvxYa-5G4OAocOo3ihk7ALbgLZ4IooLHgzgA_EPiVFA",
     tags: [
       "Circuit Analysis",
       "Material Testing",
@@ -274,7 +288,7 @@ export const projects = [
     description:
       "Collaboratively crafted an immersive 2-player fighting game featuring dynamic special kill animations, captivating sound effects, and precise scorekeeping.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFashYE5RzLxQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785626122?e=1726718400&v=beta&t=57Gn6pMLm8o91-vHGKJMzSKSeFaSTKAoRrT5B7Tn2zw",
+      "https://media.licdn.com/dms/image/v2/D562DAQFashYE5RzLxQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785626122?e=1747105200&v=beta&t=obqn_-WtdurfLA5XQnNhoC-x79rRDQdkgfeqDsdZ9kI",
     tags: ["Python", "Pygame", "VSCode", "Github"],
     category: "software",
     github: "https://github.com/ryaanmohideen/python-street-fighter",
