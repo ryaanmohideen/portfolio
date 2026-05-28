@@ -1,13 +1,13 @@
 export const Bio = {
   name: "Ryaan Mohideen",
   roles: [
-    "Engineering Student",
-    "Nanotechnology Engineer",
-    "Developer",
-    "Sports Enthusiast",
+    "Future Engineer",
+    "Problem Solver",
+    "Tech Enthusiast",
+    "Sports Fan",
   ],
   description:
-    "I’m a driven and adaptable engineering student who thrives on challenges and new opportunities. With a knack for problem-solving and a love for continuous learning, I’m always ready to dive into the next big project. Whether it’s fine-tuning robotics, analyzing data, or powering up electric vehicles, I bring enthusiasm, creativity, and a can-do attitude to everything I do. I’m here to make an impact, learn, grow, and contribute to something amazing!",
+    "I’m a Nanotechnology Engineering student at the University of Waterloo interested in electronics, hardware, and emerging technologies. I enjoy building things, working on hands-on projects, playing sports, and constantly learning new skills along the way.",
   github: "https://github.com/ryaanmohideen",
   resume:
     "https://docs.google.com/document/d/1S91xhN-2fbmD75a9wcCfkMqEsZtCbcr7Xf4MkwVptnY/edit?usp=drive_link",
