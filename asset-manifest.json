@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.fd9250a8.js",
-    "static/media/HeroImage.png": "/portfolio/static/media/HeroImage.bdacaf0092ddc7b23eb8.png",
+    "main.js": "/portfolio/static/js/main.c2668d4e.js",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.61fd47b6ec4730efdc47.jpg",
+    "static/media/uoft logo.png": "/portfolio/static/media/uoft logo.0dd0358dea134237d5ec.png",
+    "static/media/python game.jpeg": "/portfolio/static/media/python game.29e739b00e1e5d946cc7.jpeg",
+    "static/media/agincourt logo.png": "/portfolio/static/media/agincourt logo.6630542ba93b3761cae0.png",
+    "static/media/text recognition.jpeg": "/portfolio/static/media/text recognition.bc899521947a6482f2b7.jpeg",
+    "static/media/movie catalogue.jpeg": "/portfolio/static/media/movie catalogue.fa5d590925e87243387f.jpeg",
+    "static/media/teng.jpeg": "/portfolio/static/media/teng.9046e090028d5f4600ff.jpeg",
+    "static/media/waterloo logo.svg": "/portfolio/static/media/waterloo logo.e3a231d2cfc64090ec47cb85392f2f11.svg",
+    "static/media/canadian tire logo.png": "/portfolio/static/media/canadian tire logo.c1d5093e8cd7321c0d54.png",
     "index.html": "/portfolio/index.html",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.fd9250a8.js.map": "/portfolio/static/js/main.fd9250a8.js.map"
+    "main.c2668d4e.js.map": "/portfolio/static/js/main.c2668d4e.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.fd9250a8.js"
+    "static/js/main.c2668d4e.js"
   ]
 }
