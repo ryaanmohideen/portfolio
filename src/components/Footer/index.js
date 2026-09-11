@@ -65,7 +65,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.github} target="display"><GithubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Ryaan Mohideen. All rights reserved.
+          &copy; 2026 Ryaan Mohideen. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

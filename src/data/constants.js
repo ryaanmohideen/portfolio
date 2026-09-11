@@ -1,3 +1,14 @@
+import agincourtLogo from "../images/agincourt logo.png";
+import waterlooLogo from "../images/waterloo logo.svg";
+import uwFeLogo from "../images/uw formula electric logo.png";
+import pythonGame from "../images/python game.jpeg";
+import teng from "../images/teng.jpeg";
+import textRecognition from "../images/text recognition.jpeg";
+import movieCatalogue from "../images/movie catalogue.jpeg";
+import cert from "../images/co2cert_logo.jpg";
+import uoft from "../images/uoft logo.png";
+import cantire from "../images/canadian tire logo.png"
+
 export const Bio = {
   name: "Ryaan Mohideen",
   roles: [
@@ -19,29 +30,21 @@ export const skills = [
   {
     title: "Programming Languages",
     skills: [
-      {
-        name: "Java",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-      },
+
       {
         name: "Python",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
-        name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
-      },
-      {
-        name: "CSS",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
-      },
-      {
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+      {
+        name: "Java",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
       {
         name: "C++",
@@ -66,18 +69,8 @@ export const skills = [
     ],
   },
   {
-    title: "Software Tools/Technologies",
+    title: "Data Analysis Tools/Technologies",
     skills: [
-      {
-        name: "React Js",
-        image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-      },
-      {
-        name: "Vue Js",
-        image:
-          "https://miro.medium.com/v2/resize:fit:400/0*K2ovtMil6X6nYrB5.png",
-      },
       {
         name: "Numpy",
         image: "https://cdn.worldvectorlogo.com/logos/numpy-1.svg",
@@ -171,7 +164,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png",
+    img: cert,
+    role: "Electrochemical Engineering Intern",
+    company: "CERT Systems",
+    date: "Sep 2025 - Apr 2026",
+    desc: "Improved CO₂ electrolyzer performance through experimental optimization, hardware development, and electrochemical data analysis.",
+    skills: [
+      "Battery Testing",
+      "Matlab",
+      "Electrochemistry",
+      "Circuit Analysis",
+    ],
+  },
+  {
+    id: 0,
+    img: uoft,
     role: "Battery Research Assistant",
     company: "University of Toronto",
     date: "Jan 2025 - Apr 2025",
@@ -185,7 +192,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://s201.q4cdn.com/326551073/files/images/2022/05/1970-logo.png",
+    img: cantire,
     role: "Data and Software Engineering Co-op",
     company: "Canadian Tire/Ness Digital Engineering",
     date: "May 2024 - Apr 2025",
@@ -199,7 +206,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D560BAQGYmWgPdbnieA/company-logo_200_200/0/1687825975032/uw_formula_electric_logo?e=2147483647&v=beta&t=XKHUWSjzs6F-vIDqnoormPKSUEs5ggzdpzNKmaxF_lY",
+    img: uwFeLogo,
     role: "Accumulator Engineer",
     company: "UW Formula Electric",
     date: "Sep 2023 - May 2024",
@@ -216,16 +223,16 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
+    img: waterlooLogo,
     school: "University of Waterloo, Ontario, Canada",
     date: "Sep 2023 - May 2028",
     grade: "3.4 GPA",
     desc: "Pursuing a Bachelor of Applied Science in Nanotechnology Engineering at the University of Waterloo, with hands-on experience in nanoelectronics, nanomaterials, and nanofabrication.",
-    degree: "Bachelor of Applied Science, Honours Nanotechnology Engineering",
+    degree: "Bachelor of Applied Science, Honours Nanotechnology Engineering  (Nanoelectronics Specialization)",
   },
   {
     id: 1,
-    img: "https://upload.wikimedia.org/wikipedia/commons/6/67/ACI_CoA_Colour_3.png",
+    img: agincourtLogo,
     school: "Agincourt Collegiate Institute, Ontario, Canada",
     date: "Sep 2019 - May 2023",
     grade: "91.88%",
@@ -242,7 +249,7 @@ export const projects = [
     description:
       "Developed a Python-based text extraction application that leverages EasyOCR for precise optical character recognition and OpenCV for effective image processing, enabling users to extract text from images seamlessly.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQHtZ7vhakH5pg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1710471616311?e=1747105200&v=beta&t=cTe_YkkL2LXU0kI21DfIw55XKvzKrTXnoQOlD7o4XqQ",
+      textRecognition,
     tags: [
       "Python",
       "OpenCV",
@@ -260,7 +267,7 @@ export const projects = [
     description:
       "Developed a dynamic movie catalog website and leveraged TMDB’s API to fetch trending movies and enable user-friendly search functionalities.-Developed a dynamic movie catalog website and leveraged TMDB’s API to fetch trending movies and enable user-friendly search functionalities.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFpaecj34vVCA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785144504?e=1747105200&v=beta&t=v5mNDjmkNlJNi6p1dhYz1FMPVAWZJT-qHfKAmx8Jbl4",
+      movieCatalogue,
     tags: ["HTML", "CSS", "Vue Js", "Github", "VSCode"],
     category: "software",
     github: "https://github.com/ryaanmohideen/TMDB-API-Movie-Catalogue",
@@ -273,7 +280,7 @@ export const projects = [
     description:
       "Developed a triboelectric nanogenerator at the University of Waterloo Nano Ideas Clinic 2023, effectively harnessing triboelectric properties to convert wind energy into 10 volts of electricity, highlighting significant potential for sustainable energy innovation.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQGaoRlGXeDFmQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707784950966?e=1747105200&v=beta&t=hvxYa-5G4OAocOo3ihk7ALbgLZ4IooLHgzgA_EPiVFA",
+      teng,
     tags: [
       "Circuit Analysis",
       "Material Testing",
@@ -288,7 +295,7 @@ export const projects = [
     description:
       "Collaboratively crafted an immersive 2-player fighting game featuring dynamic special kill animations, captivating sound effects, and precise scorekeeping.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFashYE5RzLxQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707785626122?e=1747105200&v=beta&t=obqn_-WtdurfLA5XQnNhoC-x79rRDQdkgfeqDsdZ9kI",
+      pythonGame,
     tags: ["Python", "Pygame", "VSCode", "Github"],
     category: "software",
     github: "https://github.com/ryaanmohideen/python-street-fighter",
@@ -296,10 +303,3 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
