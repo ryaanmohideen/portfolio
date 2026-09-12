@@ -82,7 +82,7 @@ const Skill = styled.div`
 `
 
 const SkillTitle = styled.h2`
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 600;
   color: ${({ theme }) => theme.text_secondary};
   margin-bottom: 20px;
@@ -118,10 +118,6 @@ const SkillItem = styled.div`
   }
 `
 
-const SkillImage = styled.img`
-  width: 24px;
-  height: 24px;
-`
 
 
 const Skills = () => {
@@ -138,7 +134,6 @@ const Skills = () => {
               <SkillList>
                 {skill.skills.map((item) => (
                   <SkillItem>
-                    <SkillImage src={item.image}/>
                     {item.name}
                   </SkillItem>
                 ))}
