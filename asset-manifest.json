@@ -1,7 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.c2668d4e.js",
+    "main.js": "/portfolio/static/js/main.e9cd3f99.js",
+    "static/media/test cart.jpeg": "/portfolio/static/media/test cart.c2b223713cade5ae91ed.jpeg",
+    "static/media/ftir-atr.jpeg": "/portfolio/static/media/ftir-atr.3eb53352008eb5df6a2a.jpeg",
+    "static/media/cdse qds.jpeg": "/portfolio/static/media/cdse qds.01ea2e42121fbd364417.jpeg",
+    "static/media/zener.jpeg": "/portfolio/static/media/zener.4e902200a7ddaf40cc9c.jpeg",
+    "static/media/mis.png": "/portfolio/static/media/mis.01f75c3ddb6deebddeda.png",
     "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.61fd47b6ec4730efdc47.jpg",
     "static/media/uoft logo.png": "/portfolio/static/media/uoft logo.0dd0358dea134237d5ec.png",
     "static/media/python game.jpeg": "/portfolio/static/media/python game.29e739b00e1e5d946cc7.jpeg",
@@ -13,10 +18,10 @@
     "static/media/canadian tire logo.png": "/portfolio/static/media/canadian tire logo.c1d5093e8cd7321c0d54.png",
     "index.html": "/portfolio/index.html",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.c2668d4e.js.map": "/portfolio/static/js/main.c2668d4e.js.map"
+    "main.e9cd3f99.js.map": "/portfolio/static/js/main.e9cd3f99.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.c2668d4e.js"
+    "static/js/main.e9cd3f99.js"
   ]
 }
